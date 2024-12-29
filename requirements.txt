@@ -1,0 +1,6 @@
+taipy
+pathlib
+asyncio
+python_weather
+pandas
+pandasai
